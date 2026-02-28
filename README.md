@@ -10,9 +10,9 @@ Hi! My name is Alif Athaullah Rasyad, you can call me Alif.<br>🏫 I'm a studen
 
 ## 💻 Top Languages
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=USERNAME_KAMU&theme=tokyonight)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Athrsyd&theme=tokyonight)
 
-![Most Used](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=USERNAME_KAMU&theme=tokyonight)
+![Most Used](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Athrsyd&theme=tokyonight)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Athrsyd&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)<br/>
