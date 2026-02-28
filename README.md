@@ -16,7 +16,7 @@ Hi! My name is Alif Athaullah Rasyad, you can call me Alif.<br>🏫 I'm a studen
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Athrsyd&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Athrsyd&theme=shadow_blue&hide_border=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Athrsyd&theme=shadow_blue&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Athrsyd&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
