@@ -12,7 +12,6 @@ Hi! My name is Alif Athaullah Rasyad, you can call me Alif.<br>🏫 I'm a studen
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Athrsyd&theme=react)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Athrsyd&theme=react)
 # 📊 GitHub Stats:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Athrsyd&theme=react)
